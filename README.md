@@ -20,7 +20,10 @@ The goal of this project is to practice **PLC programming** and **HMI integratio
 ---
 
 ## 📂 Project Structure
-
+    📁 Integration-Simatic-HMI
+    │── 📁 PLC_Code # Ladder logic program for S7-300
+    │── 📁 HMI_Screens # WinCC project files
+    │── 📄 README.md # Project documentation
 ---
 
 ## 🔧 Features
